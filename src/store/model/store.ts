@@ -39,7 +39,9 @@ export type Brand =
   | 'sparkle'
   | 'ubiquiti'
   | 'xfx'
+  | 'HotWheels'
   | 'zotac';
+  
 
 export type Series =
   | 'test:series'
@@ -92,10 +94,25 @@ export type Series =
   | 'unvr-pro'
   | 'unvr'
   | 'xboxss'
+  | 'F1'
   | 'xboxsx';
 
 export type Model =
   | 'test:model'
+  | 'Lewis'
+  | 'George'
+  | 'Max'
+  | 'Sergio'
+  | 'Charles'
+  | 'Carlos'
+  | 'Lando'
+  | 'Oscar'
+  | 'Fernando'
+  | 'Lance'
+  | 'Valtteri'
+  | 'Zhou'
+  | 'Alexander'
+  | 'Logan'
   | 'captcha-deterrent'
   | '5600x'
   | '5800x'
